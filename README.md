@@ -57,8 +57,8 @@
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seuusuario/dra-quantum-bot.git
-cd dra-quantum-bot
+git clone https://github.com/edigelson-nascimento/Dra.-Quantum---Discord-Bot-Multifuncional.git
+cd Dra.-Quantum---Discord-Bot-Multifuncional
 ```
 
 2. **Instale as dependências**
@@ -234,7 +234,7 @@ Contribuições são bem-vindas! Se encontrar bugs ou tiver sugestões:
 
 ## 🐛 Reportar Bugs
 
-Encontrou um bug? Abra uma [Issue](https://github.com/seuusuario/dra-quantum-bot/issues) com:
+Encontrou um bug? Abra uma [Issue](https://github.com/edigelson-nascimento/Dra.-Quantum---Discord-Bot-Multifuncional/issues) com:
 
 - Descrição detalhada do problema
 - Passos para reproduzir
