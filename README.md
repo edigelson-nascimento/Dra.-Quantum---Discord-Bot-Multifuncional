@@ -280,4 +280,4 @@ Se este projeto foi útil para você, considere dar uma ⭐ no GitHub!
 
 ---
 
-**Desenvolvido com ❤️ por edigelson-nascimento**
+**Desenvolvido com ❤️ por ed**
