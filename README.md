@@ -207,7 +207,7 @@ Este projeto está licenciado sob a **Licença MIT**. Veja o arquivo [LICENSE](L
 
 ## 👨‍💻 Desenvolvedor
 
-Desenvolvido por **hazardlabs**
+Desenvolvido por **ed**
 
 - 🌐 Website: [discord.gg/74bxyVFGPF](https://discord.gg/74bxyVFGPF)
 - 📧 Suporte: Entre em contato pelo servidor Discord
