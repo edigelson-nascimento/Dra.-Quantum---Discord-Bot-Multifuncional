@@ -259,7 +259,7 @@ Encontrou um bug? Abra uma [Issue](https://github.com/edigelson-nascimento/Dra.-
 
 ## 📄 Changelog
 
-### v1.0.0-beta
+### beta
 - ✅ Sistema inicial de IA com Groq
 - ✅ Boas-vindas personalizadas
 - ✅ Sistema de anúncios agendados
